@@ -1,4 +1,3 @@
-
 // java program for left triangle
 public class GFG {
 	// Function to demonstrate printing pattern
